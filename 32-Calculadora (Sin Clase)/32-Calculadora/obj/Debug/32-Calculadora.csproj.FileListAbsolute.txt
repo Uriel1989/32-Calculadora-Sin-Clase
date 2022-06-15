@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\32-Calculadora\32-Calculadora\bin\Debug\32-Calculadora.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\32-Calculadora\32-Calculadora\bin\Debug\32-Calculadora.pdb
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\32-Calculadora\32-Calculadora\obj\Debug\32-Calculadora.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\32-Calculadora\32-Calculadora\obj\Debug\32-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\32-Calculadora\32-Calculadora\obj\Debug\32-Calculadora.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\32-Calculadora\32-Calculadora\obj\Debug\32-Calculadora.pdb
